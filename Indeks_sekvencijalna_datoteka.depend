@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517257738 source:c:\users\nikor\desktop\indeks_sekvencijalna_datoteka\ams.c
+	"ams.h"
+
+1517223262 c:\users\nikor\desktop\indeks_sekvencijalna_datoteka\ams.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<math.h>
+
